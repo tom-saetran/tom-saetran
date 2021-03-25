@@ -6,6 +6,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J63WMSH)
 
+<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script>
+<script type='text/javascript'>counterwidget.init('J3J63WMSH');counterwidget.draw();</script>
+
 <!---
 tom-saetran/tom-saetran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
