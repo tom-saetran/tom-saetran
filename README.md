@@ -16,7 +16,9 @@ src="https://camo.githubusercontent.com/6dd33307985a08dbef2d2478465fa92f65bd78e4
 
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J63WMSH)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J63WMSH) <= Click here if you have any spare left.. I'm not _yet_ an artisian webdeveloper 🥰
 
 <!---
 tom-saetran/tom-saetran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
