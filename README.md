@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom, and these are my skills
+- 👋 Hi, I’m Tom, and these are some my skills
 
 ---
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
