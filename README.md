@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom. I maintain the web service behind [Norwegian Constrictors](https://norwegianconstrictors.no)
+- 👋 Hi, I’m Tom. I maintain the web service behind [Norwegian Constrictors](https://www.norwegianconstrictors.no)
 
 ---
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
