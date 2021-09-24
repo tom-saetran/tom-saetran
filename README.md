@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tom. I maintain the web service behind [Norwegian Constrictors](https://www.norwegianconstrictors.no)
 - I have a progressive ♿ called [MELAS](https://en.wikipedia.org/wiki/MELAS_syndrome).
-
 ---
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,5 +28,7 @@
   <image src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <image src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+---
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-saetran&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J63WMSH)
