@@ -29,6 +29,6 @@
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <image src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 ---
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-saetran&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J63WMSH)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tom-saetran&show_icons=true&theme=highcontrast" alt="Tom's GitHub stats"/>
+</p>
