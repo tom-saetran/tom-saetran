@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tom. I maintain the web service behind [Norwegian Constrictors](https://www.norwegianconstrictors.no)
 - I have a progressive ♿ called [MELAS](https://en.wikipedia.org/wiki/MELAS_syndrome).
+- ![cors](https://www.npmjs.com/package/cors) got you down? try ![cors-except](https://www.npmjs.com/package/cors-except) today!
 ---
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
